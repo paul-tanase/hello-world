@@ -10,4 +10,6 @@ My name is Paul.
 3. third
 4. fourth
 5. fifth
+6. sixth
+7. seventh
 
